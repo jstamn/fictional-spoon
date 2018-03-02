@@ -1,4 +1,4 @@
-# X-Team NN Rules
+# X-Team 17 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
@@ -10,19 +10,19 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-
+TODO
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-
+TODO
 
 ## How will will communicate difficulties with a task assigned to us
 
-
+TODO
 
 ## How we will back up each other to ensure that deadlines are not missed
 
-
+TODO
 
 
 
