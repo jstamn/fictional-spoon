@@ -14,15 +14,15 @@ People can choose what parts they want to work on (first come first serve), then
 
 ## How we will track progress (and follow-up) on completion of tasks
 
-TODO
+The team leader will have a document of the tasks that need to be completed by certain dates. If the tasks are not completed the team leader can send the person a email asking if they need help.
 
 ## How we will communicate difficulties with a task assigned to us
 
-TODO
+Send an email to the group or team leader saying that you are having difficulties with a specific problem or trouble getting started ect. Then other group members can try to help as much as they can without doing the entire thing for the person.
 
 ## How we will back up each other to ensure that deadlines are not missed
 
-TODO
+If a task is not completed by a certain date, the team leader will email the person asking if they need help. Other group members can step in and help but not doing the whole assignment for the person. If they have some emergency and cannot complete the task, other group members can work on the task.
 
 
 
