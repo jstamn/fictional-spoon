@@ -6,7 +6,7 @@
        * GitHub username 1: tschmidt6
        * GitHub username 2: jesoukup
        * GitHub username 3: shash2199
-       * GitHub username 4:
+       * GitHub username 4: jstamn
        * GitHub username 5:
    * When did you complete this exercise? 
    March 2, 2018
