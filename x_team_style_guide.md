@@ -1,4 +1,4 @@
-# X-Team NN Style Guide
+# X-Team 17 Style Guide
 
 We are looking to create discriptive names for all aspects of our programs, following conventions listed below. This style guide is built off of the CS300 Style Guide
 ## Naming conventions
