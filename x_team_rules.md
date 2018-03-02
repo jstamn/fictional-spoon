@@ -12,11 +12,11 @@ and missed deadlines.
 
 TODO
 
-## How will we will track progress (and follow-up) on completion of tasks
+## How we will track progress (and follow-up) on completion of tasks
 
 TODO
 
-## How will will communicate difficulties with a task assigned to us
+## How we will communicate difficulties with a task assigned to us
 
 TODO
 
