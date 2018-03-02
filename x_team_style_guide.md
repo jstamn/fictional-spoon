@@ -19,7 +19,7 @@ All names and variables describe what they are used for following convention lis
 
 ## Commenting style for public and private members of a class or interface:
 
-laehjlaejkflkasdf
+All comments follow the following conventions for each example listed below.
 
 ### Examples
 
