@@ -18,7 +18,7 @@ The team leader will have a document of the tasks that need to be completed by c
 
 ## How we will communicate difficulties with a task assigned to us
 
-Send an email to the group or team leader saying that you are having difficulties with a specific problem or trouble getting started ect. Then other group members can try to help as much as they can without doing the entire thing for the person.
+Send an email to the group or team leader saying that you are having difficulties with a specific problem or trouble getting started ect. Then other group members can try to help as much as they can without doing the entire thing for the person. We will also have a Groupme so any small issues can be freely discussed.
 
 ## How we will back up each other to ensure that deadlines are not missed
 
