@@ -33,7 +33,9 @@ All comments follow the following conventions for each example listed below.
   * while loops
   * for loops
   * enhanced for loops
+  
   Use brackets and vertical spacing for all of these, even if it is not needed. Brackets should be on the same line as the if     statements/method names/for loops etc. and have a space separating them from the character to their left. For example:
+      
       if (x == 0) {
-          x == 1;
+         x == 1; 
       }   
