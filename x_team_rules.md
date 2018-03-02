@@ -14,7 +14,7 @@ People can choose what parts they want to work on (first come first serve), then
 
 ## How we will track progress (and follow-up) on completion of tasks
 
-The team leader will have a document of the tasks that need to be completed by certain dates. If the tasks are not completed the team leader can send the person a email asking if they need help.
+The team leader will have a document of the tasks that need to be completed by certain dates. If the tasks are not completed the team leader can send the person a email asking if they need help. The date set for tasks to be completed by will be set a while before teh deadline to allow for unexpected issues that arrise.
 
 ## How we will communicate difficulties with a task assigned to us
 
