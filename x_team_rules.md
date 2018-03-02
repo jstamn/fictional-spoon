@@ -10,7 +10,7 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-TODO
+People can choose what parts they want to work on (first come first serve), then we can randomly assign tasks to left over people who don't have a preference. If two people want the same task they can flip a coin or work it out some other way.
 
 ## How we will track progress (and follow-up) on completion of tasks
 
