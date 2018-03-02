@@ -22,7 +22,7 @@ Send an email to the group or team leader saying that you are having difficultie
 
 ## How we will back up each other to ensure that deadlines are not missed
 
-If a task is not completed by a certain date, the team leader will email the person asking if they need help. Other group members can step in and help but not doing the whole assignment for the person. If they have some emergency and cannot complete the task, other group members can work on the task.
+If a task is not completed by a certain date, the team leader will email the person asking if they need help. Other group members can step in and help but not doing the whole assignment for the person. If they have some emergency and cannot complete the task, other group members can work on the task. If it appears that a task will not be done by the deadline the group leader will assign it to avaliable people, and the team member who missed the deadline will be expected to do more work in upcoming projects. Repeat offenses will be delt with on a case by case basis.
 
 
 
