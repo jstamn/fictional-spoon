@@ -1,13 +1,13 @@
 # X-Team NN Style Guide
 
-<brief description of your team's opinion or philosophy regarding Style Guides>
-
+We are looking to create discriptive names for all aspects of our programs, following conventions listed below. This style guide is built off of the CS300 Style Guide
 ## Naming conventions
 
-<brief statement describing your team's naming conventions>
+All names and variables describe what they are used for following convention listed below
 
 ### Examples
 * interfaces
+ * 
 * classes
 * exception types
 * fields
