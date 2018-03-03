@@ -29,11 +29,16 @@ All comments follow the following conventions for each example listed below.
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements - the operators and the conditions must be seperated by a space.
   For instance, 
+  
                 if(var == 1 && flag != true)
     If a statement extends to more than 100 character, use the next line and use an operator to start the second line.
     Like, 
-    instead of  if(var == 1 && flag != true || randomVar != null && proj != null && obj.val == false)
-    go for, if(var == 1 && flag != true || randomVar != null 
+    instead of  
+                 
+                 if(var == 1 && flag != true || randomVar != null && proj != null && obj.val == false)
+    go for, 
+    
+                   if(var == 1 && flag != true || randomVar != null 
                            && proj != null && obj.val == false)
   * switch statement -- > cases must be on seperate lines. 
   * while loops
