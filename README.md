@@ -4,7 +4,7 @@
 2. Answer these questions
    * What are the GitHub usernames of your team members?
        * GitHub username 1: tschmidt6
-       * GitHub username 2: jesoukup 
+       * GitHub username 2: jesoukup
        * GitHub username 3: shash2199
        * GitHub username 4: jstamn
        * GitHub username 5:
