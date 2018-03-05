@@ -7,7 +7,7 @@
        * GitHub username 2: jesoukup
        * GitHub username 3: shash2199
        * GitHub username 4: jstamn
-       * GitHub username 5:
+       * GitHub username 5: alsilverman3
    * When did you complete this exercise? 
    March 2, 2018
    * How long did it take your team to complete this exercise? 
